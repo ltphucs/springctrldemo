@@ -10,4 +10,5 @@ public interface BaseService<T> {
     T findById(int id);
 
     void save(T object);
+    //add
 }
