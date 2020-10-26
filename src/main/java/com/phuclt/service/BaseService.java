@@ -11,4 +11,5 @@ public interface BaseService<T> {
 
     void save(T object);
     //add
+    //featyure 2 code heere
 }
